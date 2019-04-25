@@ -1,0 +1,221 @@
+
+.big-text{
+	font-size: 25px;
+	color:#b8cb3b;
+	font-family: 'Srisakdi', cursive;
+}
+.small-text{
+	font-size: 16px;
+	letter-spacing: 5px;
+	color: #fff;
+}
+
+.navbar {
+	z-index: 10;
+}
+
+.content-section{
+	background-color: #999999;
+	height: 600px;
+	
+}
+
+.navbar-toggler-icon{
+	color:black;
+}
+
+
+.col-md-12{
+  position: relative;
+}
+
+.display-3{
+ position: absolute;
+ left: 30%;
+ top: 25%;
+ color: #fff;
+ font-family: 'Srisakdi', cursive;
+font-family: 'Lobster', cursive;
+}
+
+.sign{
+	color: #fff;
+	font-size: 40px;
+	top:40%;
+	left: 45%;
+	position: absolute;
+	letter-spacing:10px;
+
+}
+
+.header-text{
+	position: absolute;
+	top: 55%;
+	left:35%;
+	word-spacing: 6px;
+	color: #fff;
+	font-weight: normal;
+	font-size: 22px;
+	letter-spacing: 5px;
+}
+
+.button{
+	position: absolute;
+	top: 73%;
+	left:45%;
+	background-color: #151d25;
+	color:#fff;
+	border: none;
+	width: 140px;
+	height: 45px;
+}
+
+.third-section{
+	height: 400px;
+	background-color: #999999;
+	position: relative;
+
+}
+
+.main_div{
+  position: relative;
+  height: 300px;
+  z-index: 10;
+  margin-top: -130px;
+  left:80px;
+}
+
+.col-5{
+	height: 400px;
+}
+.left{
+  background-color: #cccccc;
+}
+.right{
+  background-color: #ffffff;
+}
+
+.story{
+
+  font-family: 'Srisakdi', cursive;
+  font-family: 'Lobster', cursive;	
+}
+
+.dot-sign{
+	letter-spacing: 6px;
+	color:#ccc;
+	font-size: 25px;
+
+}
+
+.btn-more{
+	background-color: #151d25;
+	color:#fff;
+	border: none;
+	width: 140px;
+	height: 38px;
+
+
+}
+
+.quote{
+	position: absolute;
+	font-size: 18px;
+	top:50%;
+	left: 20%;
+	letter-spacing: 6px;
+}
+
+.author{
+	position: absolute;
+	 font-family: 'Srisakdi', cursive;
+    font-family: 'Lobster', cursive;	
+	top:57%;
+	color:#fff;
+	left:40%;
+
+}
+
+.slogan{
+	color: #28374b;
+	font-family: 'Italiana', serif;
+   font-size: 32px;
+   height: 30px;
+}
+
+.menu-div{
+	height: 200px;
+}
+
+.box{
+	height: 200px;
+}
+
+.same{
+  background-color: #cccccc;
+}
+.same1{
+font-family: 'Italiana', serif;
+font-family: 'Charm', cursive;
+ background-color: #9fb0a5;
+}
+
+.show-text{
+	font-family: 'Italiana', serif;
+    font-family: 'Charm', cursive;
+}
+
+.vedio{
+	height: 200px;
+	background-color: #cccccc;
+}
+
+.up-to-date{
+	font-family: 'Italiana', serif;
+    font-family: 'Charm', cursive;
+    color:#28374b;
+}
+.dami-text{
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+}
+
+.subscribe{
+	height: 40px;
+}
+.subscribe-button{
+	background-color: #151d25;
+	
+
+}
+
+.footer-container{
+	height: 250px;
+}
+.left-box{
+ background-color: #cccccc;
+ 
+}
+.middle-box{
+ background-color: #999999;
+}
+.right-box{
+  background-color: #cccccc;
+}
+.footer-content{
+	height: 200px;
+	background-color: #27364a;
+	font-family: 'Raleway', sans-serif;
+}
+
+.footer-text{
+	margin-top: 93px;
+
+}
+.footer{
+	background-color: #151d25;
+	color:#fff;
+}
+.background-dark{
+	background-color: #151d25;
+}
